@@ -1,5 +1,5 @@
 # meetup
-Labs for meetups
+Lab for meetup March 2019
 
-[Download lab](https://github.com/arnoudkooi/meetup/blob/master/MeetUp%20-%20Mobile%20Lab%20v3.pdf)  
+[Download lab Mobile madrid](https://github.com/arnoudkooi/meetup/blob/master/MeetUp%20-%20Mobile%20Lab%20v3.pdf)  
 Link to import in studio: https://github.com/arnoudkooi/sn-meetup-mobile.git
